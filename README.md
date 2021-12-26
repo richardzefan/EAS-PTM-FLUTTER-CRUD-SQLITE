@@ -1,4 +1,4 @@
-# sqlite_coba
+# sqlite_by Richard Damarjanan
 
 A new Flutter project.
 
